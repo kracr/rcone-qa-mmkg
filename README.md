@@ -35,6 +35,8 @@ Download the models from
 
 + ConE - https://github.com/MIRALab-USTC/QE-ConE/tree/main
 + BetaE - https://github.com/snap-stanford/KGReasoning
++ CylE - https://github.com/nlp-tlp/cyle
++ GNN-QE - https://github.com/DeepGraphLearning/GNN-QE
 + run preprocess.py for each dataset based on the updated location in the file (preprocess.py)
 
 
